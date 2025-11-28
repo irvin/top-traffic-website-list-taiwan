@@ -4,6 +4,7 @@
 - [Tranco List](https://tranco-list.eu/) - 全球前 100 萬網站排名
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare 的台灣流量排名（前 100 名）
 - [AhrefsTop](https://ahrefstop.com/websites/taiwan) - Ahrefs 的台灣 Organic Search 流量排名（前 100 名）
+- [SimilarWeb](https://www.similarweb.com/top-websites/taiwan/) - SimilarWeb 的台灣網站流量排名（前 50 名）
 
 ## 📊 資料來源
 
@@ -24,30 +25,16 @@
 
 - 原始資料每月更新
 
-## 🚀 使用方式
+### SimilarWeb
+[SimilarWeb](https://www.similarweb.com/top-websites/taiwan/) - SimilarWeb 提供的網站流量分析平台，透過多種數據來源（包括直接測量、合作夥伴數據、公開數據等）收集網站流量資訊。提供台灣地區的前 50 名網站排名，包含網站類別和排名變化數據。
 
-### 1. 安裝相依套件
+- 原始資料每月更新
+
+## 🚀 使用方式
 
 ```bash
 npm install
-```
-
-### 2. 執行腳本
-
-#### Tranco List
-```bash
-npm run tranco
-```
-
-#### Cloudflare Radar
-```bash
-npm run cloudflare
-```
-**注意**：需要在 .env 檔案中設定 Cloudflare API Token，請參考 `fetch-cloudflare.js` 中的說明。
-
-#### AhrefsTop
-```bash
-npm run ahrefs
+npm run <tranco|cloudflare|ahrefs|similarweb>
 ```
 
 ## 📁 輸出檔案
@@ -101,6 +88,20 @@ npm run ahrefs
 ]
 ```
 **注意**：`search_traffic_K` 欄位為以 K 為單位的純數字（例如 "80.4M" 轉換為 80400）。
+
+### SimilarWeb
+執行後會產生 `similarweb_top_tw.json`，格式如下：
+
+```json
+[
+  {
+    "rank": 1,
+    "website": "google.com",
+    "category": "Computers Electronics and Technology > Search Engines"
+  },
+  ...
+]
+```
 
 ## 📜 授權
 
