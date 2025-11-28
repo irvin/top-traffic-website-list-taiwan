@@ -6,7 +6,8 @@
     "tranco": "node fetch-tranco.js",
     "cloudflare": "node fetch-cloudflare.js",
     "ahrefs": "node fetch-ahrefs.js",
-    "similarweb": "node fetch-similarweb.js"
+    "similarweb": "node fetch-similarweb.js",
+    "semrush": "node fetch-semrush.js"
   },
   "author": "Irvin Chen",
   "license": "MIT",

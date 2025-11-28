@@ -5,6 +5,7 @@
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare 的台灣流量排名（前 100 名）
 - [AhrefsTop](https://ahrefstop.com/websites/taiwan) - Ahrefs 的台灣 Organic Search 流量排名（前 100 名）
 - [SimilarWeb](https://www.similarweb.com/top-websites/taiwan/) - SimilarWeb 的台灣網站流量排名（前 50 名）
+- [Semrush](https://www.semrush.com/trending-websites/tw/all) - Semrush 的台灣網站流量排名（前 100 名）
 
 ## 📊 資料來源
 
@@ -30,11 +31,16 @@
 
 - 原始資料每月更新
 
+### Semrush
+[Semrush](https://www.semrush.com/trending-websites/tw/all) - Semrush 提供的網站流量分析平台，透過點擊流數據（clickstream data）收集真實用戶行為數據。提供台灣地區的前 100 名網站排名與預估總流量數據。
+
+- 原始資料每月更新
+
 ## 🚀 使用方式
 
 ```bash
 npm install
-npm run <tranco|cloudflare|ahrefs|similarweb>
+npm run <tranco|cloudflare|ahrefs|similarweb|semrush>
 ```
 
 ## 📁 輸出檔案
@@ -98,6 +104,20 @@ npm run <tranco|cloudflare|ahrefs|similarweb>
     "rank": 1,
     "website": "google.com",
     "category": "Computers Electronics and Technology > Search Engines"
+  },
+  ...
+]
+```
+
+### Semrush
+執行後會產生 `semrush_top_tw.json`，格式如下：
+
+```json
+[
+  {
+    "rank": 1,
+    "domain_name": "google.com",
+    "total_traffic": 971810009
   },
   ...
 ]
