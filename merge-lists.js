@@ -167,41 +167,65 @@ function mergeLists() {
   // 轉換為陣列格式
   const result = Array.from(websitesMap.values());
 
-  // 按照優先順序排序：1. cloudflare 2. similarweb 3. ahrefs 4. semrush 5. tranco
+  // 按照優先順序排序：
+  // 1. 有台灣排名來源的網站優先（cloudflare, similarweb, ahrefs, semrush）
+  //    - 先按台灣排名來源的數量排序（越多越好）
+  //    - 再按台灣排名的平均值排序（越小越好）
+  //    - 如果平均值相同，按最小值排序（越小越好）
+  // 2. 只有 tranco 的網站排在後面，按 tranco rank 排序
   result.sort((a, b) => {
-    // 取得排序用的 rank（按照優先順序）
-    const getSortRank = (item) => {
-      if (item.rank.cloudflare !== undefined) {
-        return { priority: 1, rank: item.rank.cloudflare };
-      } else if (item.rank.similarweb !== undefined) {
-        return { priority: 2, rank: item.rank.similarweb };
-      } else if (item.rank.ahrefs !== undefined) {
-        return { priority: 3, rank: item.rank.ahrefs };
-      } else if (item.rank.semrush !== undefined) {
-        return { priority: 4, rank: item.rank.semrush };
-      } else if (item.rank.tranco !== undefined) {
-        return { priority: 5, rank: item.rank.tranco };
-      } else {
-        // 如果都沒有，使用其他來源或使用很大的數字
-        const otherRank = Object.values(item.rank)[0];
-        return { priority: 6, rank: otherRank !== undefined ? otherRank : Infinity };
-      }
+    // 取得台灣排名來源
+    const getTaiwanRanks = (item) => {
+      const taiwanRanks = [];
+      if (item.rank.cloudflare !== undefined) taiwanRanks.push(item.rank.cloudflare);
+      if (item.rank.similarweb !== undefined) taiwanRanks.push(item.rank.similarweb);
+      if (item.rank.ahrefs !== undefined) taiwanRanks.push(item.rank.ahrefs);
+      if (item.rank.semrush !== undefined) taiwanRanks.push(item.rank.semrush);
+      return taiwanRanks;
     };
 
-    const aSort = getSortRank(a);
-    const bSort = getSortRank(b);
+    const aTaiwanRanks = getTaiwanRanks(a);
+    const bTaiwanRanks = getTaiwanRanks(b);
 
-    // 先按優先順序排序
-    if (aSort.priority !== bSort.priority) {
-      return aSort.priority - bSort.priority;
+    // 優先級：有台灣排名 > 只有 tranco
+    if (aTaiwanRanks.length > 0 && bTaiwanRanks.length === 0) {
+      return -1; // a 優先
+    }
+    if (aTaiwanRanks.length === 0 && bTaiwanRanks.length > 0) {
+      return 1; // b 優先
     }
 
-    // 如果優先順序相同，按 rank 值排序（rank 越小越前面）
-    if (aSort.rank !== bSort.rank) {
-      return aSort.rank - bSort.rank;
+    // 如果都有台灣排名，先按來源數量排序（越多越好）
+    if (aTaiwanRanks.length > 0 && bTaiwanRanks.length > 0) {
+      if (aTaiwanRanks.length !== bTaiwanRanks.length) {
+        return bTaiwanRanks.length - aTaiwanRanks.length; // 數量多的優先
+      }
+
+      // 如果數量相同，按平均值排序（越小越好）
+      const aAvg = aTaiwanRanks.reduce((sum, r) => sum + r, 0) / aTaiwanRanks.length;
+      const bAvg = bTaiwanRanks.reduce((sum, r) => sum + r, 0) / bTaiwanRanks.length;
+      if (aAvg !== bAvg) {
+        return aAvg - bAvg;
+      }
+
+      // 如果平均值相同，按最小值排序（越小越好）
+      const aMin = Math.min(...aTaiwanRanks);
+      const bMin = Math.min(...bTaiwanRanks);
+      if (aMin !== bMin) {
+        return aMin - bMin;
+      }
     }
 
-    // 如果 rank 也相同，按 website 字母順序排序
+    // 如果都只有 tranco，按 tranco rank 排序
+    if (aTaiwanRanks.length === 0 && bTaiwanRanks.length === 0) {
+      const aTranco = a.rank.tranco !== undefined ? a.rank.tranco : Infinity;
+      const bTranco = b.rank.tranco !== undefined ? b.rank.tranco : Infinity;
+      if (aTranco !== bTranco) {
+        return aTranco - bTranco;
+      }
+    }
+
+    // 最後按 website 字母順序排序
     return a.website.localeCompare(b.website);
   });
 

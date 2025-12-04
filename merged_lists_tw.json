@@ -10,35 +10,13 @@
     }
   },
   {
-    "website": "googleapis.com",
-    "url": "https://googleapis.com",
+    "website": "youtube.com",
+    "url": "https://youtube.com",
     "rank": {
-      "cloudflare": 2
-    }
-  },
-  {
-    "website": "microsoft.com",
-    "url": "https://microsoft.com",
-    "rank": {
-      "ahrefs": 25,
-      "cloudflare": 3,
-      "semrush": 44
-    }
-  },
-  {
-    "website": "gstatic.com",
-    "url": "https://gstatic.com",
-    "rank": {
-      "cloudflare": 4
-    }
-  },
-  {
-    "website": "apple.com",
-    "url": "https://apple.com",
-    "rank": {
-      "ahrefs": 8,
-      "cloudflare": 5,
-      "semrush": 63
+      "ahrefs": 4,
+      "cloudflare": 7,
+      "similarweb": 2,
+      "semrush": 2
     }
   },
   {
@@ -52,13 +30,595 @@
     }
   },
   {
-    "website": "youtube.com",
-    "url": "https://youtube.com",
+    "website": "instagram.com",
+    "url": "https://instagram.com",
     "rank": {
-      "ahrefs": 4,
-      "cloudflare": 7,
-      "similarweb": 2,
-      "semrush": 2
+      "ahrefs": 5,
+      "cloudflare": 14,
+      "similarweb": 6,
+      "semrush": 5
+    }
+  },
+  {
+    "website": "yahoo.com",
+    "url": "https://yahoo.com",
+    "rank": {
+      "ahrefs": 2,
+      "cloudflare": 35,
+      "similarweb": 4,
+      "semrush": 4
+    }
+  },
+  {
+    "website": "chatgpt.com",
+    "url": "https://chatgpt.com",
+    "rank": {
+      "ahrefs": 9,
+      "cloudflare": 34,
+      "similarweb": 7,
+      "semrush": 9
+    }
+  },
+  {
+    "website": "shopee.tw",
+    "url": "https://shopee.tw",
+    "rank": {
+      "tranco": 5638,
+      "ahrefs": 6,
+      "cloudflare": 48,
+      "similarweb": 8,
+      "semrush": 8
+    }
+  },
+  {
+    "website": "google.com.tw",
+    "url": "https://google.com.tw",
+    "rank": {
+      "tranco": 4583,
+      "ahrefs": 30,
+      "cloudflare": 57,
+      "similarweb": 23,
+      "semrush": 16
+    }
+  },
+  {
+    "website": "netflix.com",
+    "url": "https://netflix.com",
+    "rank": {
+      "ahrefs": 61,
+      "cloudflare": 78,
+      "similarweb": 26,
+      "semrush": 31
+    }
+  },
+  {
+    "website": "wikipedia.org",
+    "url": "https://wikipedia.org",
+    "rank": {
+      "ahrefs": 1,
+      "similarweb": 9,
+      "semrush": 6
+    }
+  },
+  {
+    "website": "udn.com",
+    "url": "https://udn.com",
+    "rank": {
+      "ahrefs": 14,
+      "similarweb": 14,
+      "semrush": 10
+    }
+  },
+  {
+    "website": "ptt.cc",
+    "url": "https://ptt.cc",
+    "rank": {
+      "ahrefs": 22,
+      "similarweb": 12,
+      "semrush": 11
+    }
+  },
+  {
+    "website": "gamer.com.tw",
+    "url": "https://gamer.com.tw",
+    "rank": {
+      "tranco": 7907,
+      "ahrefs": 35,
+      "similarweb": 5,
+      "semrush": 7
+    }
+  },
+  {
+    "website": "dcard.tw",
+    "url": "https://dcard.tw",
+    "rank": {
+      "tranco": 18125,
+      "ahrefs": 24,
+      "similarweb": 13,
+      "semrush": 18
+    }
+  },
+  {
+    "website": "momoshop.com.tw",
+    "url": "https://momoshop.com.tw",
+    "rank": {
+      "tranco": 8047,
+      "ahrefs": 10,
+      "similarweb": 24,
+      "semrush": 26
+    }
+  },
+  {
+    "website": "threads.com",
+    "url": "https://threads.com",
+    "rank": {
+      "ahrefs": 38,
+      "similarweb": 10,
+      "semrush": 12
+    }
+  },
+  {
+    "website": "ettoday.net",
+    "url": "https://ettoday.net",
+    "rank": {
+      "ahrefs": 29,
+      "similarweb": 17,
+      "semrush": 17
+    }
+  },
+  {
+    "website": "ltn.com.tw",
+    "url": "https://ltn.com.tw",
+    "rank": {
+      "tranco": 7607,
+      "ahrefs": 27,
+      "similarweb": 25,
+      "semrush": 15
+    }
+  },
+  {
+    "website": "cwa.gov.tw",
+    "url": "https://cwa.gov.tw",
+    "rank": {
+      "tranco": 11357,
+      "ahrefs": 7,
+      "similarweb": 30,
+      "semrush": 34
+    }
+  },
+  {
+    "website": "microsoft.com",
+    "url": "https://microsoft.com",
+    "rank": {
+      "ahrefs": 25,
+      "cloudflare": 3,
+      "semrush": 44
+    }
+  },
+  {
+    "website": "pchome.com.tw",
+    "url": "https://pchome.com.tw",
+    "rank": {
+      "tranco": 6184,
+      "ahrefs": 12,
+      "similarweb": 34,
+      "semrush": 29
+    }
+  },
+  {
+    "website": "apple.com",
+    "url": "https://apple.com",
+    "rank": {
+      "ahrefs": 8,
+      "cloudflare": 5,
+      "semrush": 63
+    }
+  },
+  {
+    "website": "wantgoo.com",
+    "url": "https://wantgoo.com",
+    "rank": {
+      "ahrefs": 16,
+      "similarweb": 35,
+      "semrush": 30
+    }
+  },
+  {
+    "website": "pixnet.net",
+    "url": "https://pixnet.net",
+    "rank": {
+      "ahrefs": 19,
+      "similarweb": 31,
+      "semrush": 36
+    }
+  },
+  {
+    "website": "tvbs.com.tw",
+    "url": "https://tvbs.com.tw",
+    "rank": {
+      "tranco": 21372,
+      "ahrefs": 21,
+      "similarweb": 37,
+      "semrush": 33
+    }
+  },
+  {
+    "website": "104.com.tw",
+    "url": "https://104.com.tw",
+    "rank": {
+      "tranco": 9916,
+      "ahrefs": 13,
+      "similarweb": 39,
+      "semrush": 40
+    }
+  },
+  {
+    "website": "baidu.com",
+    "url": "https://baidu.com",
+    "rank": {
+      "ahrefs": 42,
+      "cloudflare": 31,
+      "similarweb": 27
+    }
+  },
+  {
+    "website": "x.com",
+    "url": "https://x.com",
+    "rank": {
+      "ahrefs": 69,
+      "similarweb": 18,
+      "semrush": 14
+    }
+  },
+  {
+    "website": "mobile01.com",
+    "url": "https://mobile01.com",
+    "rank": {
+      "ahrefs": 67,
+      "similarweb": 21,
+      "semrush": 19
+    }
+  },
+  {
+    "website": "cnyes.com",
+    "url": "https://cnyes.com",
+    "rank": {
+      "ahrefs": 26,
+      "similarweb": 45,
+      "semrush": 41
+    }
+  },
+  {
+    "website": "line.me",
+    "url": "https://line.me",
+    "rank": {
+      "ahrefs": 36,
+      "cloudflare": 62,
+      "similarweb": 16
+    }
+  },
+  {
+    "website": "msn.com",
+    "url": "https://msn.com",
+    "rank": {
+      "ahrefs": 77,
+      "cloudflare": 23,
+      "semrush": 32
+    }
+  },
+  {
+    "website": "cna.com.tw",
+    "url": "https://cna.com.tw",
+    "rank": {
+      "tranco": 20248,
+      "ahrefs": 74,
+      "similarweb": 48,
+      "semrush": 62
+    }
+  },
+  {
+    "website": "twitch.tv",
+    "url": "https://twitch.tv",
+    "rank": {
+      "similarweb": 20,
+      "semrush": 25
+    }
+  },
+  {
+    "website": "czbooks.net",
+    "url": "https://czbooks.net",
+    "rank": {
+      "similarweb": 33,
+      "semrush": 13
+    }
+  },
+  {
+    "website": "jable.tv",
+    "url": "https://jable.tv",
+    "rank": {
+      "similarweb": 29,
+      "semrush": 22
+    }
+  },
+  {
+    "website": "pornhub.com",
+    "url": "https://pornhub.com",
+    "rank": {
+      "similarweb": 36,
+      "semrush": 20
+    }
+  },
+  {
+    "website": "xbanxia.cc",
+    "url": "https://xbanxia.cc",
+    "rank": {
+      "similarweb": 22,
+      "semrush": 39
+    }
+  },
+  {
+    "website": "bing.com",
+    "url": "https://bing.com",
+    "rank": {
+      "cloudflare": 17,
+      "semrush": 47
+    }
+  },
+  {
+    "website": "chinatimes.com",
+    "url": "https://chinatimes.com",
+    "rank": {
+      "similarweb": 38,
+      "semrush": 28
+    }
+  },
+  {
+    "website": "twkan.com",
+    "url": "https://twkan.com",
+    "rank": {
+      "similarweb": 28,
+      "semrush": 38
+    }
+  },
+  {
+    "website": "reddit.com",
+    "url": "https://reddit.com",
+    "rank": {
+      "similarweb": 46,
+      "semrush": 24
+    }
+  },
+  {
+    "website": "nat.gov.tw",
+    "url": "https://nat.gov.tw",
+    "rank": {
+      "tranco": 27649,
+      "ahrefs": 20,
+      "semrush": 60
+    }
+  },
+  {
+    "website": "live.com",
+    "url": "https://live.com",
+    "rank": {
+      "cloudflare": 16,
+      "semrush": 68
+    }
+  },
+  {
+    "website": "cmoney.tw",
+    "url": "https://cmoney.tw",
+    "rank": {
+      "tranco": 38090,
+      "ahrefs": 41,
+      "semrush": 45
+    }
+  },
+  {
+    "website": "setn.com",
+    "url": "https://setn.com",
+    "rank": {
+      "similarweb": 40,
+      "semrush": 52
+    }
+  },
+  {
+    "website": "gimytv.ai",
+    "url": "https://gimytv.ai",
+    "rank": {
+      "similarweb": 50,
+      "semrush": 49
+    }
+  },
+  {
+    "website": "canva.com",
+    "url": "https://canva.com",
+    "rank": {
+      "ahrefs": 37,
+      "semrush": 73
+    }
+  },
+  {
+    "website": "7-11.com.tw",
+    "url": "https://7-11.com.tw",
+    "rank": {
+      "tranco": 26987,
+      "ahrefs": 54,
+      "semrush": 56
+    }
+  },
+  {
+    "website": "591.com.tw",
+    "url": "https://591.com.tw",
+    "rank": {
+      "tranco": 24144,
+      "ahrefs": 18,
+      "semrush": 97
+    }
+  },
+  {
+    "website": "nownews.com",
+    "url": "https://nownews.com",
+    "rank": {
+      "similarweb": 43,
+      "semrush": 74
+    }
+  },
+  {
+    "website": "gov.taipei",
+    "url": "https://gov.taipei",
+    "rank": {
+      "ahrefs": 52,
+      "semrush": 66
+    }
+  },
+  {
+    "website": "github.com",
+    "url": "https://github.com",
+    "rank": {
+      "cloudflare": 60,
+      "semrush": 59
+    }
+  },
+  {
+    "website": "moe.edu.tw",
+    "url": "https://moe.edu.tw",
+    "rank": {
+      "tranco": 51238,
+      "ahrefs": 31,
+      "semrush": 91
+    }
+  },
+  {
+    "website": "storm.mg",
+    "url": "https://storm.mg",
+    "rank": {
+      "ahrefs": 79,
+      "semrush": 46
+    }
+  },
+  {
+    "website": "books.com.tw",
+    "url": "https://books.com.tw",
+    "rank": {
+      "tranco": 17062,
+      "ahrefs": 46,
+      "semrush": 80
+    }
+  },
+  {
+    "website": "ixdzs.tw",
+    "url": "https://ixdzs.tw",
+    "rank": {
+      "tranco": 12713,
+      "similarweb": 49,
+      "semrush": 77
+    }
+  },
+  {
+    "website": "cpbl.com.tw",
+    "url": "https://cpbl.com.tw",
+    "rank": {
+      "tranco": 19398,
+      "ahrefs": 48,
+      "semrush": 81
+    }
+  },
+  {
+    "website": "taobao.com",
+    "url": "https://taobao.com",
+    "rank": {
+      "cloudflare": 74,
+      "semrush": 57
+    }
+  },
+  {
+    "website": "bot.com.tw",
+    "url": "https://bot.com.tw",
+    "rank": {
+      "tranco": 65684,
+      "ahrefs": 34,
+      "semrush": 98
+    }
+  },
+  {
+    "website": "ctbcbank.com",
+    "url": "https://ctbcbank.com",
+    "rank": {
+      "ahrefs": 65,
+      "semrush": 67
+    }
+  },
+  {
+    "website": "cambridge.org",
+    "url": "https://cambridge.org",
+    "rank": {
+      "ahrefs": 40,
+      "semrush": 100
+    }
+  },
+  {
+    "website": "vocus.cc",
+    "url": "https://vocus.cc",
+    "rank": {
+      "ahrefs": 45,
+      "semrush": 96
+    }
+  },
+  {
+    "website": "tiktok.com",
+    "url": "https://tiktok.com",
+    "rank": {
+      "cloudflare": 96,
+      "semrush": 70
+    }
+  },
+  {
+    "website": "cht.com.tw",
+    "url": "https://cht.com.tw",
+    "rank": {
+      "tranco": 53327,
+      "ahrefs": 90,
+      "semrush": 83
+    }
+  },
+  {
+    "website": "ctee.com.tw",
+    "url": "https://ctee.com.tw",
+    "rank": {
+      "tranco": 22164,
+      "ahrefs": 94,
+      "semrush": 87
+    }
+  },
+  {
+    "website": "adobe.com",
+    "url": "https://adobe.com",
+    "rank": {
+      "ahrefs": 89,
+      "cloudflare": 93
+    }
+  },
+  {
+    "website": "hinet.net",
+    "url": "https://hinet.net",
+    "rank": {
+      "cloudflare": 100,
+      "semrush": 84
+    }
+  },
+  {
+    "website": "googleapis.com",
+    "url": "https://googleapis.com",
+    "rank": {
+      "cloudflare": 2
+    }
+  },
+  {
+    "website": "gstatic.com",
+    "url": "https://gstatic.com",
+    "rank": {
+      "cloudflare": 4
     }
   },
   {
@@ -83,6 +643,13 @@
     }
   },
   {
+    "website": "news.yahoo.com",
+    "url": "https://news.yahoo.com",
+    "rank": {
+      "similarweb": 11
+    }
+  },
+  {
     "website": "qq.com",
     "url": "https://qq.com",
     "rank": {
@@ -104,13 +671,17 @@
     }
   },
   {
-    "website": "instagram.com",
-    "url": "https://instagram.com",
+    "website": "bilibili.com",
+    "url": "https://bilibili.com",
     "rank": {
-      "ahrefs": 5,
-      "cloudflare": 14,
-      "similarweb": 6,
-      "semrush": 5
+      "similarweb": 15
+    }
+  },
+  {
+    "website": "gimy.ai",
+    "url": "https://gimy.ai",
+    "rank": {
+      "ahrefs": 15
     }
   },
   {
@@ -121,19 +692,10 @@
     }
   },
   {
-    "website": "live.com",
-    "url": "https://live.com",
+    "website": "inline.app",
+    "url": "https://inline.app",
     "rank": {
-      "cloudflare": 16,
-      "semrush": 68
-    }
-  },
-  {
-    "website": "bing.com",
-    "url": "https://bing.com",
-    "rank": {
-      "cloudflare": 17,
-      "semrush": 47
+      "ahrefs": 17
     }
   },
   {
@@ -141,6 +703,13 @@
     "url": "https://fbcdn.net",
     "rank": {
       "cloudflare": 18
+    }
+  },
+  {
+    "website": "69shuba.com",
+    "url": "https://69shuba.com",
+    "rank": {
+      "similarweb": 19
     }
   },
   {
@@ -165,6 +734,13 @@
     }
   },
   {
+    "website": "wnacg.com",
+    "url": "https://wnacg.com",
+    "rank": {
+      "semrush": 21
+    }
+  },
+  {
     "website": "googleusercontent.com",
     "url": "https://googleusercontent.com",
     "rank": {
@@ -172,12 +748,18 @@
     }
   },
   {
-    "website": "msn.com",
-    "url": "https://msn.com",
+    "website": "dgpa.gov.tw",
+    "url": "https://dgpa.gov.tw",
     "rank": {
-      "ahrefs": 77,
-      "cloudflare": 23,
-      "semrush": 32
+      "tranco": 86064,
+      "ahrefs": 23
+    }
+  },
+  {
+    "website": "xvideos.com",
+    "url": "https://xvideos.com",
+    "rank": {
+      "semrush": 23
     }
   },
   {
@@ -209,6 +791,21 @@
     }
   },
   {
+    "website": "hanime1.me",
+    "url": "https://hanime1.me",
+    "rank": {
+      "semrush": 27
+    }
+  },
+  {
+    "website": "commonhealth.com.tw",
+    "url": "https://commonhealth.com.tw",
+    "rank": {
+      "tranco": 104959,
+      "ahrefs": 28
+    }
+  },
+  {
     "website": "line-apps.com",
     "url": "https://line-apps.com",
     "rank": {
@@ -230,19 +827,32 @@
     }
   },
   {
-    "website": "baidu.com",
-    "url": "https://baidu.com",
-    "rank": {
-      "ahrefs": 42,
-      "cloudflare": 31,
-      "similarweb": 27
-    }
-  },
-  {
     "website": "azure.com",
     "url": "https://azure.com",
     "rank": {
       "cloudflare": 32
+    }
+  },
+  {
+    "website": "cookpad.com",
+    "url": "https://cookpad.com",
+    "rank": {
+      "ahrefs": 32
+    }
+  },
+  {
+    "website": "missav.ws",
+    "url": "https://missav.ws",
+    "rank": {
+      "similarweb": 32
+    }
+  },
+  {
+    "website": "costco.com.tw",
+    "url": "https://costco.com.tw",
+    "rank": {
+      "tranco": 79008,
+      "ahrefs": 33
     }
   },
   {
@@ -253,23 +863,10 @@
     }
   },
   {
-    "website": "chatgpt.com",
-    "url": "https://chatgpt.com",
+    "website": "18comic.vip",
+    "url": "https://18comic.vip",
     "rank": {
-      "ahrefs": 9,
-      "cloudflare": 34,
-      "similarweb": 7,
-      "semrush": 9
-    }
-  },
-  {
-    "website": "yahoo.com",
-    "url": "https://yahoo.com",
-    "rank": {
-      "ahrefs": 2,
-      "cloudflare": 35,
-      "similarweb": 4,
-      "semrush": 4
+      "semrush": 35
     }
   },
   {
@@ -277,6 +874,13 @@
     "url": "https://skype.com",
     "rank": {
       "cloudflare": 36
+    }
+  },
+  {
+    "website": "uukanshu.cc",
+    "url": "https://uukanshu.cc",
+    "rank": {
+      "semrush": 37
     }
   },
   {
@@ -294,6 +898,13 @@
     }
   },
   {
+    "website": "elle.com",
+    "url": "https://elle.com",
+    "rank": {
+      "ahrefs": 39
+    }
+  },
+  {
     "website": "sentry.io",
     "url": "https://sentry.io",
     "rank": {
@@ -308,10 +919,31 @@
     }
   },
   {
+    "website": "happymh.com",
+    "url": "https://happymh.com",
+    "rank": {
+      "similarweb": 41
+    }
+  },
+  {
     "website": "tiktokcdn.com",
     "url": "https://tiktokcdn.com",
     "rank": {
       "cloudflare": 41
+    }
+  },
+  {
+    "website": "gemini.google.com",
+    "url": "https://gemini.google.com",
+    "rank": {
+      "similarweb": 42
+    }
+  },
+  {
+    "website": "missav.ai",
+    "url": "https://missav.ai",
+    "rank": {
+      "semrush": 42
     }
   },
   {
@@ -329,10 +961,40 @@
     }
   },
   {
+    "website": "mohw.gov.tw",
+    "url": "https://mohw.gov.tw",
+    "rank": {
+      "tranco": 42102,
+      "ahrefs": 43
+    }
+  },
+  {
+    "website": "twword.com",
+    "url": "https://twword.com",
+    "rank": {
+      "semrush": 43
+    }
+  },
+  {
+    "website": "bobbyfun.tw",
+    "url": "https://bobbyfun.tw",
+    "rank": {
+      "tranco": 259536,
+      "ahrefs": 44
+    }
+  },
+  {
     "website": "cloudflare-dns.com",
     "url": "https://cloudflare-dns.com",
     "rank": {
       "cloudflare": 44
+    }
+  },
+  {
+    "website": "manhuagui.com",
+    "url": "https://manhuagui.com",
+    "rank": {
+      "similarweb": 44
     }
   },
   {
@@ -357,691 +1019,11 @@
     }
   },
   {
-    "website": "shopee.tw",
-    "url": "https://shopee.tw",
-    "rank": {
-      "tranco": 5638,
-      "ahrefs": 6,
-      "cloudflare": 48,
-      "similarweb": 8,
-      "semrush": 8
-    }
-  },
-  {
-    "website": "office.net",
-    "url": "https://office.net",
-    "rank": {
-      "cloudflare": 49
-    }
-  },
-  {
-    "website": "microsoftonline.com",
-    "url": "https://microsoftonline.com",
-    "rank": {
-      "cloudflare": 50
-    }
-  },
-  {
-    "website": "digicert.com",
-    "url": "https://digicert.com",
-    "rank": {
-      "cloudflare": 51
-    }
-  },
-  {
-    "website": "googletagmanager.com",
-    "url": "https://googletagmanager.com",
-    "rank": {
-      "cloudflare": 52
-    }
-  },
-  {
-    "website": "msftncsi.com",
-    "url": "https://msftncsi.com",
-    "rank": {
-      "cloudflare": 53
-    }
-  },
-  {
-    "website": "msftconnecttest.com",
-    "url": "https://msftconnecttest.com",
-    "rank": {
-      "cloudflare": 54
-    }
-  },
-  {
-    "website": "criteo.com",
-    "url": "https://criteo.com",
-    "rank": {
-      "cloudflare": 55
-    }
-  },
-  {
-    "website": "fastly.net",
-    "url": "https://fastly.net",
-    "rank": {
-      "cloudflare": 56
-    }
-  },
-  {
-    "website": "google.com.tw",
-    "url": "https://google.com.tw",
-    "rank": {
-      "tranco": 4583,
-      "ahrefs": 30,
-      "cloudflare": 57,
-      "similarweb": 23,
-      "semrush": 16
-    }
-  },
-  {
-    "website": "dns.google",
-    "url": "https://dns.google",
-    "rank": {
-      "cloudflare": 58
-    }
-  },
-  {
-    "website": "trafficmanager.net",
-    "url": "https://trafficmanager.net",
-    "rank": {
-      "cloudflare": 59
-    }
-  },
-  {
-    "website": "github.com",
-    "url": "https://github.com",
-    "rank": {
-      "cloudflare": 60,
-      "semrush": 59
-    }
-  },
-  {
-    "website": "ubuntu.com",
-    "url": "https://ubuntu.com",
-    "rank": {
-      "cloudflare": 61
-    }
-  },
-  {
-    "website": "line.me",
-    "url": "https://line.me",
-    "rank": {
-      "ahrefs": 36,
-      "cloudflare": 62,
-      "similarweb": 16
-    }
-  },
-  {
-    "website": "ggpht.com",
-    "url": "https://ggpht.com",
-    "rank": {
-      "cloudflare": 63
-    }
-  },
-  {
-    "website": "clarity.ms",
-    "url": "https://clarity.ms",
-    "rank": {
-      "cloudflare": 64
-    }
-  },
-  {
-    "website": "ip-api.com",
-    "url": "https://ip-api.com",
-    "rank": {
-      "cloudflare": 65
-    }
-  },
-  {
-    "website": "windows.net",
-    "url": "https://windows.net",
-    "rank": {
-      "cloudflare": 66
-    }
-  },
-  {
-    "website": "appsflyersdk.com",
-    "url": "https://appsflyersdk.com",
-    "rank": {
-      "cloudflare": 67
-    }
-  },
-  {
-    "website": "zijieapi.com",
-    "url": "https://zijieapi.com",
-    "rank": {
-      "cloudflare": 68
-    }
-  },
-  {
-    "website": "adnxs.com",
-    "url": "https://adnxs.com",
-    "rank": {
-      "cloudflare": 69
-    }
-  },
-  {
-    "website": "amazon.com",
-    "url": "https://amazon.com",
-    "rank": {
-      "cloudflare": 70
-    }
-  },
-  {
-    "website": "nel.goog",
-    "url": "https://nel.goog",
-    "rank": {
-      "cloudflare": 71
-    }
-  },
-  {
-    "website": "cdn-apple.com",
-    "url": "https://cdn-apple.com",
-    "rank": {
-      "cloudflare": 72
-    }
-  },
-  {
-    "website": "gvt1.com",
-    "url": "https://gvt1.com",
-    "rank": {
-      "cloudflare": 73
-    }
-  },
-  {
-    "website": "taobao.com",
-    "url": "https://taobao.com",
-    "rank": {
-      "cloudflare": 74,
-      "semrush": 57
-    }
-  },
-  {
-    "website": "akamaized.net",
-    "url": "https://akamaized.net",
-    "rank": {
-      "cloudflare": 75
-    }
-  },
-  {
-    "website": "pki.goog",
-    "url": "https://pki.goog",
-    "rank": {
-      "cloudflare": 76
-    }
-  },
-  {
-    "website": "steamserver.net",
-    "url": "https://steamserver.net",
-    "rank": {
-      "cloudflare": 77
-    }
-  },
-  {
-    "website": "netflix.com",
-    "url": "https://netflix.com",
-    "rank": {
-      "ahrefs": 61,
-      "cloudflare": 78,
-      "similarweb": 26,
-      "semrush": 31
-    }
-  },
-  {
-    "website": "rubiconproject.com",
-    "url": "https://rubiconproject.com",
-    "rank": {
-      "cloudflare": 79
-    }
-  },
-  {
-    "website": "gmail.com",
-    "url": "https://gmail.com",
-    "rank": {
-      "cloudflare": 80
-    }
-  },
-  {
-    "website": "cdninstagram.com",
-    "url": "https://cdninstagram.com",
-    "rank": {
-      "cloudflare": 81
-    }
-  },
-  {
-    "website": "aliyuncs.com",
-    "url": "https://aliyuncs.com",
-    "rank": {
-      "cloudflare": 82
-    }
-  },
-  {
-    "website": "adtrafficquality.google",
-    "url": "https://adtrafficquality.google",
-    "rank": {
-      "cloudflare": 83
-    }
-  },
-  {
-    "website": "taboola.com",
-    "url": "https://taboola.com",
-    "rank": {
-      "cloudflare": 84
-    }
-  },
-  {
-    "website": "app-measurement.com",
-    "url": "https://app-measurement.com",
-    "rank": {
-      "cloudflare": 85
-    }
-  },
-  {
-    "website": "fastly-edge.com",
-    "url": "https://fastly-edge.com",
-    "rank": {
-      "cloudflare": 86
-    }
-  },
-  {
-    "website": "whatsapp.net",
-    "url": "https://whatsapp.net",
-    "rank": {
-      "cloudflare": 87
-    }
-  },
-  {
-    "website": "mozilla.com",
-    "url": "https://mozilla.com",
-    "rank": {
-      "cloudflare": 88
-    }
-  },
-  {
-    "website": "sharepoint.com",
-    "url": "https://sharepoint.com",
-    "rank": {
-      "cloudflare": 89
-    }
-  },
-  {
-    "website": "app-analytics-services.com",
-    "url": "https://app-analytics-services.com",
-    "rank": {
-      "cloudflare": 90
-    }
-  },
-  {
-    "website": "xiaohongshu.com",
-    "url": "https://xiaohongshu.com",
-    "rank": {
-      "cloudflare": 91
-    }
-  },
-  {
-    "website": "pubmatic.com",
-    "url": "https://pubmatic.com",
-    "rank": {
-      "cloudflare": 92
-    }
-  },
-  {
-    "website": "adobe.com",
-    "url": "https://adobe.com",
-    "rank": {
-      "ahrefs": 89,
-      "cloudflare": 93
-    }
-  },
-  {
-    "website": "avast.com",
-    "url": "https://avast.com",
-    "rank": {
-      "cloudflare": 94
-    }
-  },
-  {
-    "website": "mzstatic.com",
-    "url": "https://mzstatic.com",
-    "rank": {
-      "cloudflare": 95
-    }
-  },
-  {
-    "website": "tiktok.com",
-    "url": "https://tiktok.com",
-    "rank": {
-      "cloudflare": 96,
-      "semrush": 70
-    }
-  },
-  {
-    "website": "lencr.org",
-    "url": "https://lencr.org",
-    "rank": {
-      "cloudflare": 97
-    }
-  },
-  {
-    "website": "shopeemobile.com",
-    "url": "https://shopeemobile.com",
-    "rank": {
-      "cloudflare": 98
-    }
-  },
-  {
-    "website": "office365.com",
-    "url": "https://office365.com",
-    "rank": {
-      "cloudflare": 99
-    }
-  },
-  {
-    "website": "hinet.net",
-    "url": "https://hinet.net",
-    "rank": {
-      "cloudflare": 100,
-      "semrush": 84
-    }
-  },
-  {
-    "website": "gamer.com.tw",
-    "url": "https://gamer.com.tw",
-    "rank": {
-      "tranco": 7907,
-      "ahrefs": 35,
-      "similarweb": 5,
-      "semrush": 7
-    }
-  },
-  {
-    "website": "wikipedia.org",
-    "url": "https://wikipedia.org",
-    "rank": {
-      "ahrefs": 1,
-      "similarweb": 9,
-      "semrush": 6
-    }
-  },
-  {
-    "website": "threads.com",
-    "url": "https://threads.com",
-    "rank": {
-      "ahrefs": 38,
-      "similarweb": 10,
-      "semrush": 12
-    }
-  },
-  {
-    "website": "news.yahoo.com",
-    "url": "https://news.yahoo.com",
-    "rank": {
-      "similarweb": 11
-    }
-  },
-  {
-    "website": "ptt.cc",
-    "url": "https://ptt.cc",
-    "rank": {
-      "ahrefs": 22,
-      "similarweb": 12,
-      "semrush": 11
-    }
-  },
-  {
-    "website": "dcard.tw",
-    "url": "https://dcard.tw",
-    "rank": {
-      "tranco": 18125,
-      "ahrefs": 24,
-      "similarweb": 13,
-      "semrush": 18
-    }
-  },
-  {
-    "website": "udn.com",
-    "url": "https://udn.com",
-    "rank": {
-      "ahrefs": 14,
-      "similarweb": 14,
-      "semrush": 10
-    }
-  },
-  {
-    "website": "bilibili.com",
-    "url": "https://bilibili.com",
-    "rank": {
-      "similarweb": 15
-    }
-  },
-  {
-    "website": "ettoday.net",
-    "url": "https://ettoday.net",
-    "rank": {
-      "ahrefs": 29,
-      "similarweb": 17,
-      "semrush": 17
-    }
-  },
-  {
-    "website": "x.com",
-    "url": "https://x.com",
-    "rank": {
-      "ahrefs": 69,
-      "similarweb": 18,
-      "semrush": 14
-    }
-  },
-  {
-    "website": "69shuba.com",
-    "url": "https://69shuba.com",
-    "rank": {
-      "similarweb": 19
-    }
-  },
-  {
-    "website": "twitch.tv",
-    "url": "https://twitch.tv",
-    "rank": {
-      "similarweb": 20,
-      "semrush": 25
-    }
-  },
-  {
-    "website": "mobile01.com",
-    "url": "https://mobile01.com",
-    "rank": {
-      "ahrefs": 67,
-      "similarweb": 21,
-      "semrush": 19
-    }
-  },
-  {
-    "website": "xbanxia.cc",
-    "url": "https://xbanxia.cc",
-    "rank": {
-      "similarweb": 22,
-      "semrush": 39
-    }
-  },
-  {
-    "website": "momoshop.com.tw",
-    "url": "https://momoshop.com.tw",
-    "rank": {
-      "tranco": 8047,
-      "ahrefs": 10,
-      "similarweb": 24,
-      "semrush": 26
-    }
-  },
-  {
-    "website": "ltn.com.tw",
-    "url": "https://ltn.com.tw",
-    "rank": {
-      "tranco": 7607,
-      "ahrefs": 27,
-      "similarweb": 25,
-      "semrush": 15
-    }
-  },
-  {
-    "website": "twkan.com",
-    "url": "https://twkan.com",
-    "rank": {
-      "similarweb": 28,
-      "semrush": 38
-    }
-  },
-  {
-    "website": "jable.tv",
-    "url": "https://jable.tv",
-    "rank": {
-      "similarweb": 29,
-      "semrush": 22
-    }
-  },
-  {
-    "website": "cwa.gov.tw",
-    "url": "https://cwa.gov.tw",
-    "rank": {
-      "tranco": 11357,
-      "ahrefs": 7,
-      "similarweb": 30,
-      "semrush": 34
-    }
-  },
-  {
-    "website": "pixnet.net",
-    "url": "https://pixnet.net",
-    "rank": {
-      "ahrefs": 19,
-      "similarweb": 31,
-      "semrush": 36
-    }
-  },
-  {
-    "website": "missav.ws",
-    "url": "https://missav.ws",
-    "rank": {
-      "similarweb": 32
-    }
-  },
-  {
-    "website": "czbooks.net",
-    "url": "https://czbooks.net",
-    "rank": {
-      "similarweb": 33,
-      "semrush": 13
-    }
-  },
-  {
-    "website": "pchome.com.tw",
-    "url": "https://pchome.com.tw",
-    "rank": {
-      "tranco": 6184,
-      "ahrefs": 12,
-      "similarweb": 34,
-      "semrush": 29
-    }
-  },
-  {
-    "website": "wantgoo.com",
-    "url": "https://wantgoo.com",
-    "rank": {
-      "ahrefs": 16,
-      "similarweb": 35,
-      "semrush": 30
-    }
-  },
-  {
-    "website": "pornhub.com",
-    "url": "https://pornhub.com",
-    "rank": {
-      "similarweb": 36,
-      "semrush": 20
-    }
-  },
-  {
-    "website": "tvbs.com.tw",
-    "url": "https://tvbs.com.tw",
-    "rank": {
-      "tranco": 21372,
-      "ahrefs": 21,
-      "similarweb": 37,
-      "semrush": 33
-    }
-  },
-  {
-    "website": "chinatimes.com",
-    "url": "https://chinatimes.com",
-    "rank": {
-      "similarweb": 38,
-      "semrush": 28
-    }
-  },
-  {
-    "website": "104.com.tw",
-    "url": "https://104.com.tw",
-    "rank": {
-      "tranco": 9916,
-      "ahrefs": 13,
-      "similarweb": 39,
-      "semrush": 40
-    }
-  },
-  {
-    "website": "setn.com",
-    "url": "https://setn.com",
-    "rank": {
-      "similarweb": 40,
-      "semrush": 52
-    }
-  },
-  {
-    "website": "happymh.com",
-    "url": "https://happymh.com",
-    "rank": {
-      "similarweb": 41
-    }
-  },
-  {
-    "website": "gemini.google.com",
-    "url": "https://gemini.google.com",
-    "rank": {
-      "similarweb": 42
-    }
-  },
-  {
-    "website": "nownews.com",
-    "url": "https://nownews.com",
-    "rank": {
-      "similarweb": 43,
-      "semrush": 74
-    }
-  },
-  {
-    "website": "manhuagui.com",
-    "url": "https://manhuagui.com",
-    "rank": {
-      "similarweb": 44
-    }
-  },
-  {
-    "website": "cnyes.com",
-    "url": "https://cnyes.com",
-    "rank": {
-      "ahrefs": 26,
-      "similarweb": 45,
-      "semrush": 41
-    }
-  },
-  {
-    "website": "reddit.com",
-    "url": "https://reddit.com",
-    "rank": {
-      "similarweb": 46,
-      "semrush": 24
+    "website": "icook.tw",
+    "url": "https://icook.tw",
+    "rank": {
+      "tranco": 73623,
+      "ahrefs": 47
     }
   },
   {
@@ -1053,193 +1035,17 @@
     }
   },
   {
-    "website": "cna.com.tw",
-    "url": "https://cna.com.tw",
+    "website": "reurl.cc",
+    "url": "https://reurl.cc",
     "rank": {
-      "tranco": 20248,
-      "ahrefs": 74,
-      "similarweb": 48,
-      "semrush": 62
+      "semrush": 48
     }
   },
   {
-    "website": "ixdzs.tw",
-    "url": "https://ixdzs.tw",
+    "website": "office.net",
+    "url": "https://office.net",
     "rank": {
-      "tranco": 12713,
-      "similarweb": 49,
-      "semrush": 77
-    }
-  },
-  {
-    "website": "gimytv.ai",
-    "url": "https://gimytv.ai",
-    "rank": {
-      "similarweb": 50,
-      "semrush": 49
-    }
-  },
-  {
-    "website": "gimy.ai",
-    "url": "https://gimy.ai",
-    "rank": {
-      "ahrefs": 15
-    }
-  },
-  {
-    "website": "inline.app",
-    "url": "https://inline.app",
-    "rank": {
-      "ahrefs": 17
-    }
-  },
-  {
-    "website": "591.com.tw",
-    "url": "https://591.com.tw",
-    "rank": {
-      "tranco": 24144,
-      "ahrefs": 18,
-      "semrush": 97
-    }
-  },
-  {
-    "website": "nat.gov.tw",
-    "url": "https://nat.gov.tw",
-    "rank": {
-      "tranco": 27649,
-      "ahrefs": 20,
-      "semrush": 60
-    }
-  },
-  {
-    "website": "dgpa.gov.tw",
-    "url": "https://dgpa.gov.tw",
-    "rank": {
-      "tranco": 86064,
-      "ahrefs": 23
-    }
-  },
-  {
-    "website": "commonhealth.com.tw",
-    "url": "https://commonhealth.com.tw",
-    "rank": {
-      "tranco": 104959,
-      "ahrefs": 28
-    }
-  },
-  {
-    "website": "moe.edu.tw",
-    "url": "https://moe.edu.tw",
-    "rank": {
-      "tranco": 51238,
-      "ahrefs": 31,
-      "semrush": 91
-    }
-  },
-  {
-    "website": "cookpad.com",
-    "url": "https://cookpad.com",
-    "rank": {
-      "ahrefs": 32
-    }
-  },
-  {
-    "website": "costco.com.tw",
-    "url": "https://costco.com.tw",
-    "rank": {
-      "tranco": 79008,
-      "ahrefs": 33
-    }
-  },
-  {
-    "website": "bot.com.tw",
-    "url": "https://bot.com.tw",
-    "rank": {
-      "tranco": 65684,
-      "ahrefs": 34,
-      "semrush": 98
-    }
-  },
-  {
-    "website": "canva.com",
-    "url": "https://canva.com",
-    "rank": {
-      "ahrefs": 37,
-      "semrush": 73
-    }
-  },
-  {
-    "website": "elle.com",
-    "url": "https://elle.com",
-    "rank": {
-      "ahrefs": 39
-    }
-  },
-  {
-    "website": "cambridge.org",
-    "url": "https://cambridge.org",
-    "rank": {
-      "ahrefs": 40,
-      "semrush": 100
-    }
-  },
-  {
-    "website": "cmoney.tw",
-    "url": "https://cmoney.tw",
-    "rank": {
-      "tranco": 38090,
-      "ahrefs": 41,
-      "semrush": 45
-    }
-  },
-  {
-    "website": "mohw.gov.tw",
-    "url": "https://mohw.gov.tw",
-    "rank": {
-      "tranco": 42102,
-      "ahrefs": 43
-    }
-  },
-  {
-    "website": "bobbyfun.tw",
-    "url": "https://bobbyfun.tw",
-    "rank": {
-      "tranco": 259536,
-      "ahrefs": 44
-    }
-  },
-  {
-    "website": "vocus.cc",
-    "url": "https://vocus.cc",
-    "rank": {
-      "ahrefs": 45,
-      "semrush": 96
-    }
-  },
-  {
-    "website": "books.com.tw",
-    "url": "https://books.com.tw",
-    "rank": {
-      "tranco": 17062,
-      "ahrefs": 46,
-      "semrush": 80
-    }
-  },
-  {
-    "website": "icook.tw",
-    "url": "https://icook.tw",
-    "rank": {
-      "tranco": 73623,
-      "ahrefs": 47
-    }
-  },
-  {
-    "website": "cpbl.com.tw",
-    "url": "https://cpbl.com.tw",
-    "rank": {
-      "tranco": 19398,
-      "ahrefs": 48,
-      "semrush": 81
+      "cloudflare": 49
     }
   },
   {
@@ -1258,6 +1064,34 @@
     }
   },
   {
+    "website": "microsoftonline.com",
+    "url": "https://microsoftonline.com",
+    "rank": {
+      "cloudflare": 50
+    }
+  },
+  {
+    "website": "movieffm.net",
+    "url": "https://movieffm.net",
+    "rank": {
+      "semrush": 50
+    }
+  },
+  {
+    "website": "digicert.com",
+    "url": "https://digicert.com",
+    "rank": {
+      "cloudflare": 51
+    }
+  },
+  {
+    "website": "pttweb.cc",
+    "url": "https://pttweb.cc",
+    "rank": {
+      "semrush": 51
+    }
+  },
+  {
     "website": "welcometw.com",
     "url": "https://welcometw.com",
     "rank": {
@@ -1265,11 +1099,10 @@
     }
   },
   {
-    "website": "gov.taipei",
-    "url": "https://gov.taipei",
+    "website": "googletagmanager.com",
+    "url": "https://googletagmanager.com",
     "rank": {
-      "ahrefs": 52,
-      "semrush": 66
+      "cloudflare": 52
     }
   },
   {
@@ -1281,12 +1114,45 @@
     }
   },
   {
-    "website": "7-11.com.tw",
-    "url": "https://7-11.com.tw",
+    "website": "msftncsi.com",
+    "url": "https://msftncsi.com",
     "rank": {
-      "tranco": 26987,
-      "ahrefs": 54,
-      "semrush": 56
+      "cloudflare": 53
+    }
+  },
+  {
+    "website": "thisiscm.com",
+    "url": "https://thisiscm.com",
+    "rank": {
+      "semrush": 53
+    }
+  },
+  {
+    "website": "msftconnecttest.com",
+    "url": "https://msftconnecttest.com",
+    "rank": {
+      "cloudflare": 54
+    }
+  },
+  {
+    "website": "weather.com",
+    "url": "https://weather.com",
+    "rank": {
+      "semrush": 54
+    }
+  },
+  {
+    "website": "criteo.com",
+    "url": "https://criteo.com",
+    "rank": {
+      "cloudflare": 55
+    }
+  },
+  {
+    "website": "linovelib.com",
+    "url": "https://linovelib.com",
+    "rank": {
+      "semrush": 55
     }
   },
   {
@@ -1295,6 +1161,13 @@
     "rank": {
       "tranco": 66738,
       "ahrefs": 55
+    }
+  },
+  {
+    "website": "fastly.net",
+    "url": "https://fastly.net",
+    "rank": {
+      "cloudflare": 56
     }
   },
   {
@@ -1321,11 +1194,32 @@
     }
   },
   {
+    "website": "dns.google",
+    "url": "https://dns.google",
+    "rank": {
+      "cloudflare": 58
+    }
+  },
+  {
+    "website": "novel543.com",
+    "url": "https://novel543.com",
+    "rank": {
+      "semrush": 58
+    }
+  },
+  {
     "website": "ikea.com.tw",
     "url": "https://ikea.com.tw",
     "rank": {
       "tranco": 81909,
       "ahrefs": 59
+    }
+  },
+  {
+    "website": "trafficmanager.net",
+    "url": "https://trafficmanager.net",
+    "rank": {
+      "cloudflare": 59
     }
   },
   {
@@ -1337,10 +1231,31 @@
     }
   },
   {
+    "website": "eyny.com",
+    "url": "https://eyny.com",
+    "rank": {
+      "semrush": 61
+    }
+  },
+  {
+    "website": "ubuntu.com",
+    "url": "https://ubuntu.com",
+    "rank": {
+      "cloudflare": 61
+    }
+  },
+  {
     "website": "ilovepdf.com",
     "url": "https://ilovepdf.com",
     "rank": {
       "ahrefs": 62
+    }
+  },
+  {
+    "website": "ggpht.com",
+    "url": "https://ggpht.com",
+    "rank": {
+      "cloudflare": 63
     }
   },
   {
@@ -1360,11 +1275,31 @@
     }
   },
   {
-    "website": "ctbcbank.com",
-    "url": "https://ctbcbank.com",
+    "website": "clarity.ms",
+    "url": "https://clarity.ms",
     "rank": {
-      "ahrefs": 65,
-      "semrush": 67
+      "cloudflare": 64
+    }
+  },
+  {
+    "website": "douyin.com",
+    "url": "https://douyin.com",
+    "rank": {
+      "semrush": 64
+    }
+  },
+  {
+    "website": "ip-api.com",
+    "url": "https://ip-api.com",
+    "rank": {
+      "cloudflare": 65
+    }
+  },
+  {
+    "website": "openai.com",
+    "url": "https://openai.com",
+    "rank": {
+      "semrush": 65
     }
   },
   {
@@ -1376,10 +1311,52 @@
     }
   },
   {
+    "website": "windows.net",
+    "url": "https://windows.net",
+    "rank": {
+      "cloudflare": 66
+    }
+  },
+  {
+    "website": "appsflyersdk.com",
+    "url": "https://appsflyersdk.com",
+    "rank": {
+      "cloudflare": 67
+    }
+  },
+  {
     "website": "mcdonalds.com",
     "url": "https://mcdonalds.com",
     "rank": {
       "ahrefs": 68
+    }
+  },
+  {
+    "website": "zijieapi.com",
+    "url": "https://zijieapi.com",
+    "rank": {
+      "cloudflare": 68
+    }
+  },
+  {
+    "website": "adnxs.com",
+    "url": "https://adnxs.com",
+    "rank": {
+      "cloudflare": 69
+    }
+  },
+  {
+    "website": "discord.com",
+    "url": "https://discord.com",
+    "rank": {
+      "semrush": 69
+    }
+  },
+  {
+    "website": "amazon.com",
+    "url": "https://amazon.com",
+    "rank": {
+      "cloudflare": 70
     }
   },
   {
@@ -1397,10 +1374,45 @@
     }
   },
   {
+    "website": "hjwzw.com",
+    "url": "https://hjwzw.com",
+    "rank": {
+      "semrush": 71
+    }
+  },
+  {
+    "website": "nel.goog",
+    "url": "https://nel.goog",
+    "rank": {
+      "cloudflare": 71
+    }
+  },
+  {
+    "website": "cdn-apple.com",
+    "url": "https://cdn-apple.com",
+    "rank": {
+      "cloudflare": 72
+    }
+  },
+  {
     "website": "steampowered.com",
     "url": "https://steampowered.com",
     "rank": {
       "ahrefs": 72
+    }
+  },
+  {
+    "website": "twitter.com",
+    "url": "https://twitter.com",
+    "rank": {
+      "semrush": 72
+    }
+  },
+  {
+    "website": "gvt1.com",
+    "url": "https://gvt1.com",
+    "rank": {
+      "cloudflare": 73
     }
   },
   {
@@ -1409,6 +1421,20 @@
     "rank": {
       "tranco": 73039,
       "ahrefs": 73
+    }
+  },
+  {
+    "website": "akamaized.net",
+    "url": "https://akamaized.net",
+    "rank": {
+      "cloudflare": 75
+    }
+  },
+  {
+    "website": "sto55.com",
+    "url": "https://sto55.com",
+    "rank": {
+      "semrush": 75
     }
   },
   {
@@ -1426,6 +1452,27 @@
     }
   },
   {
+    "website": "pki.goog",
+    "url": "https://pki.goog",
+    "rank": {
+      "cloudflare": 76
+    }
+  },
+  {
+    "website": "trip.com",
+    "url": "https://trip.com",
+    "rank": {
+      "semrush": 76
+    }
+  },
+  {
+    "website": "steamserver.net",
+    "url": "https://steamserver.net",
+    "rank": {
+      "cloudflare": 77
+    }
+  },
+  {
     "website": "moneydj.com",
     "url": "https://moneydj.com",
     "rank": {
@@ -1433,11 +1480,32 @@
     }
   },
   {
-    "website": "storm.mg",
-    "url": "https://storm.mg",
+    "website": "ruten.com.tw",
+    "url": "https://ruten.com.tw",
     "rank": {
-      "ahrefs": 79,
-      "semrush": 46
+      "tranco": 23149,
+      "semrush": 78
+    }
+  },
+  {
+    "website": "nextapple.com",
+    "url": "https://nextapple.com",
+    "rank": {
+      "semrush": 79
+    }
+  },
+  {
+    "website": "rubiconproject.com",
+    "url": "https://rubiconproject.com",
+    "rank": {
+      "cloudflare": 79
+    }
+  },
+  {
+    "website": "gmail.com",
+    "url": "https://gmail.com",
+    "rank": {
+      "cloudflare": 80
     }
   },
   {
@@ -1448,6 +1516,13 @@
     }
   },
   {
+    "website": "cdninstagram.com",
+    "url": "https://cdninstagram.com",
+    "rank": {
+      "cloudflare": 81
+    }
+  },
+  {
     "website": "kkday.com",
     "url": "https://kkday.com",
     "rank": {
@@ -1455,10 +1530,31 @@
     }
   },
   {
+    "website": "aliyuncs.com",
+    "url": "https://aliyuncs.com",
+    "rank": {
+      "cloudflare": 82
+    }
+  },
+  {
     "website": "harpersbazaar.com",
     "url": "https://harpersbazaar.com",
     "rank": {
       "ahrefs": 82
+    }
+  },
+  {
+    "website": "line.biz",
+    "url": "https://line.biz",
+    "rank": {
+      "semrush": 82
+    }
+  },
+  {
+    "website": "adtrafficquality.google",
+    "url": "https://adtrafficquality.google",
+    "rank": {
+      "cloudflare": 83
     }
   },
   {
@@ -1477,11 +1573,32 @@
     }
   },
   {
+    "website": "taboola.com",
+    "url": "https://taboola.com",
+    "rank": {
+      "cloudflare": 84
+    }
+  },
+  {
+    "website": "app-measurement.com",
+    "url": "https://app-measurement.com",
+    "rank": {
+      "cloudflare": 85
+    }
+  },
+  {
     "website": "cw.com.tw",
     "url": "https://cw.com.tw",
     "rank": {
       "tranco": 40622,
       "ahrefs": 85
+    }
+  },
+  {
+    "website": "missav123.com",
+    "url": "https://missav123.com",
+    "rank": {
+      "semrush": 85
     }
   },
   {
@@ -1493,11 +1610,32 @@
     }
   },
   {
+    "website": "disp.cc",
+    "url": "https://disp.cc",
+    "rank": {
+      "semrush": 86
+    }
+  },
+  {
+    "website": "fastly-edge.com",
+    "url": "https://fastly-edge.com",
+    "rank": {
+      "cloudflare": 86
+    }
+  },
+  {
     "website": "post.gov.tw",
     "url": "https://post.gov.tw",
     "rank": {
       "tranco": 50866,
       "ahrefs": 87
+    }
+  },
+  {
+    "website": "whatsapp.net",
+    "url": "https://whatsapp.net",
+    "rank": {
+      "cloudflare": 87
     }
   },
   {
@@ -1508,12 +1646,46 @@
     }
   },
   {
-    "website": "cht.com.tw",
-    "url": "https://cht.com.tw",
+    "website": "drxsw.com",
+    "url": "https://drxsw.com",
     "rank": {
-      "tranco": 53327,
-      "ahrefs": 90,
-      "semrush": 83
+      "semrush": 88
+    }
+  },
+  {
+    "website": "mozilla.com",
+    "url": "https://mozilla.com",
+    "rank": {
+      "cloudflare": 88
+    }
+  },
+  {
+    "website": "ebc.net.tw",
+    "url": "https://ebc.net.tw",
+    "rank": {
+      "tranco": 64359,
+      "semrush": 89
+    }
+  },
+  {
+    "website": "sharepoint.com",
+    "url": "https://sharepoint.com",
+    "rank": {
+      "cloudflare": 89
+    }
+  },
+  {
+    "website": "app-analytics-services.com",
+    "url": "https://app-analytics-services.com",
+    "rank": {
+      "cloudflare": 90
+    }
+  },
+  {
+    "website": "pinterest.com",
+    "url": "https://pinterest.com",
+    "rank": {
+      "semrush": 90
     }
   },
   {
@@ -1522,6 +1694,27 @@
     "rank": {
       "tranco": 234313,
       "ahrefs": 91
+    }
+  },
+  {
+    "website": "xiaohongshu.com",
+    "url": "https://xiaohongshu.com",
+    "rank": {
+      "cloudflare": 91
+    }
+  },
+  {
+    "website": "pubmatic.com",
+    "url": "https://pubmatic.com",
+    "rank": {
+      "cloudflare": 92
+    }
+  },
+  {
+    "website": "twmanga.com",
+    "url": "https://twmanga.com",
+    "rank": {
+      "semrush": 92
     }
   },
   {
@@ -1541,12 +1734,38 @@
     }
   },
   {
-    "website": "ctee.com.tw",
-    "url": "https://ctee.com.tw",
+    "website": "quickclick.cc",
+    "url": "https://quickclick.cc",
     "rank": {
-      "tranco": 22164,
-      "ahrefs": 94,
-      "semrush": 87
+      "semrush": 93
+    }
+  },
+  {
+    "website": "avast.com",
+    "url": "https://avast.com",
+    "rank": {
+      "cloudflare": 94
+    }
+  },
+  {
+    "website": "xiaoyakankan.com",
+    "url": "https://xiaoyakankan.com",
+    "rank": {
+      "semrush": 94
+    }
+  },
+  {
+    "website": "anime1.me",
+    "url": "https://anime1.me",
+    "rank": {
+      "semrush": 95
+    }
+  },
+  {
+    "website": "mzstatic.com",
+    "url": "https://mzstatic.com",
+    "rank": {
+      "cloudflare": 95
     }
   },
   {
@@ -1574,10 +1793,38 @@
     }
   },
   {
+    "website": "lencr.org",
+    "url": "https://lencr.org",
+    "rank": {
+      "cloudflare": 97
+    }
+  },
+  {
+    "website": "shopeemobile.com",
+    "url": "https://shopeemobile.com",
+    "rank": {
+      "cloudflare": 98
+    }
+  },
+  {
     "website": "sinopac.com",
     "url": "https://sinopac.com",
     "rank": {
       "ahrefs": 98
+    }
+  },
+  {
+    "website": "missav.live",
+    "url": "https://missav.live",
+    "rank": {
+      "semrush": 99
+    }
+  },
+  {
+    "website": "office365.com",
+    "url": "https://office365.com",
+    "rank": {
+      "cloudflare": 99
     }
   },
   {
@@ -1592,253 +1839,6 @@
     "url": "https://piliapp.com",
     "rank": {
       "ahrefs": 100
-    }
-  },
-  {
-    "website": "wnacg.com",
-    "url": "https://wnacg.com",
-    "rank": {
-      "semrush": 21
-    }
-  },
-  {
-    "website": "xvideos.com",
-    "url": "https://xvideos.com",
-    "rank": {
-      "semrush": 23
-    }
-  },
-  {
-    "website": "hanime1.me",
-    "url": "https://hanime1.me",
-    "rank": {
-      "semrush": 27
-    }
-  },
-  {
-    "website": "18comic.vip",
-    "url": "https://18comic.vip",
-    "rank": {
-      "semrush": 35
-    }
-  },
-  {
-    "website": "uukanshu.cc",
-    "url": "https://uukanshu.cc",
-    "rank": {
-      "semrush": 37
-    }
-  },
-  {
-    "website": "missav.ai",
-    "url": "https://missav.ai",
-    "rank": {
-      "semrush": 42
-    }
-  },
-  {
-    "website": "twword.com",
-    "url": "https://twword.com",
-    "rank": {
-      "semrush": 43
-    }
-  },
-  {
-    "website": "reurl.cc",
-    "url": "https://reurl.cc",
-    "rank": {
-      "semrush": 48
-    }
-  },
-  {
-    "website": "movieffm.net",
-    "url": "https://movieffm.net",
-    "rank": {
-      "semrush": 50
-    }
-  },
-  {
-    "website": "pttweb.cc",
-    "url": "https://pttweb.cc",
-    "rank": {
-      "semrush": 51
-    }
-  },
-  {
-    "website": "thisiscm.com",
-    "url": "https://thisiscm.com",
-    "rank": {
-      "semrush": 53
-    }
-  },
-  {
-    "website": "weather.com",
-    "url": "https://weather.com",
-    "rank": {
-      "semrush": 54
-    }
-  },
-  {
-    "website": "linovelib.com",
-    "url": "https://linovelib.com",
-    "rank": {
-      "semrush": 55
-    }
-  },
-  {
-    "website": "novel543.com",
-    "url": "https://novel543.com",
-    "rank": {
-      "semrush": 58
-    }
-  },
-  {
-    "website": "eyny.com",
-    "url": "https://eyny.com",
-    "rank": {
-      "semrush": 61
-    }
-  },
-  {
-    "website": "douyin.com",
-    "url": "https://douyin.com",
-    "rank": {
-      "semrush": 64
-    }
-  },
-  {
-    "website": "openai.com",
-    "url": "https://openai.com",
-    "rank": {
-      "semrush": 65
-    }
-  },
-  {
-    "website": "discord.com",
-    "url": "https://discord.com",
-    "rank": {
-      "semrush": 69
-    }
-  },
-  {
-    "website": "hjwzw.com",
-    "url": "https://hjwzw.com",
-    "rank": {
-      "semrush": 71
-    }
-  },
-  {
-    "website": "twitter.com",
-    "url": "https://twitter.com",
-    "rank": {
-      "semrush": 72
-    }
-  },
-  {
-    "website": "sto55.com",
-    "url": "https://sto55.com",
-    "rank": {
-      "semrush": 75
-    }
-  },
-  {
-    "website": "trip.com",
-    "url": "https://trip.com",
-    "rank": {
-      "semrush": 76
-    }
-  },
-  {
-    "website": "ruten.com.tw",
-    "url": "https://ruten.com.tw",
-    "rank": {
-      "tranco": 23149,
-      "semrush": 78
-    }
-  },
-  {
-    "website": "nextapple.com",
-    "url": "https://nextapple.com",
-    "rank": {
-      "semrush": 79
-    }
-  },
-  {
-    "website": "line.biz",
-    "url": "https://line.biz",
-    "rank": {
-      "semrush": 82
-    }
-  },
-  {
-    "website": "missav123.com",
-    "url": "https://missav123.com",
-    "rank": {
-      "semrush": 85
-    }
-  },
-  {
-    "website": "disp.cc",
-    "url": "https://disp.cc",
-    "rank": {
-      "semrush": 86
-    }
-  },
-  {
-    "website": "drxsw.com",
-    "url": "https://drxsw.com",
-    "rank": {
-      "semrush": 88
-    }
-  },
-  {
-    "website": "ebc.net.tw",
-    "url": "https://ebc.net.tw",
-    "rank": {
-      "tranco": 64359,
-      "semrush": 89
-    }
-  },
-  {
-    "website": "pinterest.com",
-    "url": "https://pinterest.com",
-    "rank": {
-      "semrush": 90
-    }
-  },
-  {
-    "website": "twmanga.com",
-    "url": "https://twmanga.com",
-    "rank": {
-      "semrush": 92
-    }
-  },
-  {
-    "website": "quickclick.cc",
-    "url": "https://quickclick.cc",
-    "rank": {
-      "semrush": 93
-    }
-  },
-  {
-    "website": "xiaoyakankan.com",
-    "url": "https://xiaoyakankan.com",
-    "rank": {
-      "semrush": 94
-    }
-  },
-  {
-    "website": "anime1.me",
-    "url": "https://anime1.me",
-    "rank": {
-      "semrush": 95
-    }
-  },
-  {
-    "website": "missav.live",
-    "url": "https://missav.live",
-    "rank": {
-      "semrush": 99
     }
   },
   {
