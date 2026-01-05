@@ -10,7 +10,7 @@
     "semrush": "node fetch-semrush.js"
   },
   "author": "Irvin Chen",
-  "license": "MIT",
+  "license": "CC BY-NC-ND-4.0",
   "dependencies": {
     "adm-zip": "^0.5.10",
     "dotenv": "^17.2.3"
