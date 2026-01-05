@@ -2,501 +2,501 @@
   {
     "rank": 1,
     "domain_name": "google.com",
-    "total_traffic": 971810009
+    "total_traffic": 954694353
   },
   {
     "rank": 2,
     "domain_name": "youtube.com",
-    "total_traffic": 683239980
+    "total_traffic": 697535256
   },
   {
     "rank": 3,
     "domain_name": "facebook.com",
-    "total_traffic": 224391902
+    "total_traffic": 202105779
   },
   {
     "rank": 4,
     "domain_name": "yahoo.com",
-    "total_traffic": 214345207
+    "total_traffic": 161814325
   },
   {
     "rank": 5,
     "domain_name": "instagram.com",
-    "total_traffic": 65611295
+    "total_traffic": 62729413
   },
   {
     "rank": 6,
     "domain_name": "wikipedia.org",
-    "total_traffic": 65498263
+    "total_traffic": 58603932
   },
   {
     "rank": 7,
-    "domain_name": "gamer.com.tw",
-    "total_traffic": 63041103
+    "domain_name": "shopee.tw",
+    "total_traffic": 55928923
   },
   {
     "rank": 8,
-    "domain_name": "shopee.tw",
-    "total_traffic": 60073120
+    "domain_name": "gamer.com.tw",
+    "total_traffic": 54890491
   },
   {
     "rank": 9,
     "domain_name": "chatgpt.com",
-    "total_traffic": 57461713
+    "total_traffic": 53804707
   },
   {
     "rank": 10,
     "domain_name": "udn.com",
-    "total_traffic": 54074777
+    "total_traffic": 48696268
   },
   {
     "rank": 11,
-    "domain_name": "ptt.cc",
-    "total_traffic": 46332060
+    "domain_name": "threads.com",
+    "total_traffic": 41638413
   },
   {
     "rank": 12,
-    "domain_name": "threads.com",
-    "total_traffic": 42629989
+    "domain_name": "ptt.cc",
+    "total_traffic": 40194612
   },
   {
     "rank": 13,
     "domain_name": "czbooks.net",
-    "total_traffic": 40304494
+    "total_traffic": 36866966
   },
   {
     "rank": 14,
     "domain_name": "x.com",
-    "total_traffic": 35319811
+    "total_traffic": 31997856
   },
   {
     "rank": 15,
     "domain_name": "ltn.com.tw",
-    "total_traffic": 32922665
+    "total_traffic": 30599175
   },
   {
     "rank": 16,
-    "domain_name": "google.com.tw",
-    "total_traffic": 31669668
+    "domain_name": "ettoday.net",
+    "total_traffic": 29342700
   },
   {
     "rank": 17,
-    "domain_name": "ettoday.net",
-    "total_traffic": 31414604
+    "domain_name": "google.com.tw",
+    "total_traffic": 29197167
   },
   {
     "rank": 18,
     "domain_name": "dcard.tw",
-    "total_traffic": 30501407
+    "total_traffic": 28163437
   },
   {
     "rank": 19,
     "domain_name": "mobile01.com",
-    "total_traffic": 27464946
+    "total_traffic": 26457522
   },
   {
     "rank": 20,
     "domain_name": "pornhub.com",
-    "total_traffic": 27408767
+    "total_traffic": 25919824
   },
   {
     "rank": 21,
-    "domain_name": "wnacg.com",
-    "total_traffic": 22928486
+    "domain_name": "momoshop.com.tw",
+    "total_traffic": 24833243
   },
   {
     "rank": 22,
-    "domain_name": "jable.tv",
-    "total_traffic": 22463454
+    "domain_name": "wnacg.com",
+    "total_traffic": 21758701
   },
   {
     "rank": 23,
-    "domain_name": "xvideos.com",
-    "total_traffic": 22227631
+    "domain_name": "reddit.com",
+    "total_traffic": 21566104
   },
   {
     "rank": 24,
-    "domain_name": "reddit.com",
-    "total_traffic": 21957034
+    "domain_name": "pchome.com.tw",
+    "total_traffic": 20853107
   },
   {
     "rank": 25,
-    "domain_name": "twitch.tv",
-    "total_traffic": 21751766
+    "domain_name": "xvideos.com",
+    "total_traffic": 20396132
   },
   {
     "rank": 26,
-    "domain_name": "momoshop.com.tw",
-    "total_traffic": 21329654
+    "domain_name": "jable.tv",
+    "total_traffic": 20355659
   },
   {
     "rank": 27,
-    "domain_name": "hanime1.me",
-    "total_traffic": 20993031
+    "domain_name": "cwa.gov.tw",
+    "total_traffic": 19147459
   },
   {
     "rank": 28,
     "domain_name": "chinatimes.com",
-    "total_traffic": 20118630
+    "total_traffic": 19028614
   },
   {
     "rank": 29,
-    "domain_name": "pchome.com.tw",
-    "total_traffic": 19640388
+    "domain_name": "hanime1.me",
+    "total_traffic": 18394258
   },
   {
     "rank": 30,
-    "domain_name": "wantgoo.com",
-    "total_traffic": 19081254
+    "domain_name": "twitch.tv",
+    "total_traffic": 18271378
   },
   {
     "rank": 31,
-    "domain_name": "netflix.com",
-    "total_traffic": 18922300
+    "domain_name": "msn.com",
+    "total_traffic": 16442004
   },
   {
     "rank": 32,
-    "domain_name": "msn.com",
-    "total_traffic": 17582919
+    "domain_name": "netflix.com",
+    "total_traffic": 16229118
   },
   {
     "rank": 33,
     "domain_name": "tvbs.com.tw",
-    "total_traffic": 16453601
+    "total_traffic": 14846149
   },
   {
     "rank": 34,
-    "domain_name": "cwa.gov.tw",
-    "total_traffic": 15672444
+    "domain_name": "twkan.com",
+    "total_traffic": 14803492
   },
   {
     "rank": 35,
-    "domain_name": "18comic.vip",
-    "total_traffic": 14820483
+    "domain_name": "wantgoo.com",
+    "total_traffic": 14667594
   },
   {
     "rank": 36,
-    "domain_name": "pixnet.net",
-    "total_traffic": 14463875
+    "domain_name": "18comic.vip",
+    "total_traffic": 13451780
   },
   {
     "rank": 37,
-    "domain_name": "uukanshu.cc",
-    "total_traffic": 13913171
+    "domain_name": "storm.mg",
+    "total_traffic": 13009593
   },
   {
     "rank": 38,
-    "domain_name": "twkan.com",
-    "total_traffic": 13249894
+    "domain_name": "uukanshu.cc",
+    "total_traffic": 12921250
   },
   {
     "rank": 39,
-    "domain_name": "xbanxia.cc",
-    "total_traffic": 12696001
+    "domain_name": "pixnet.net",
+    "total_traffic": 12867347
   },
   {
     "rank": 40,
-    "domain_name": "104.com.tw",
-    "total_traffic": 12345751
+    "domain_name": "10000.gov.tw",
+    "total_traffic": 11461964
   },
   {
     "rank": 41,
-    "domain_name": "cnyes.com",
-    "total_traffic": 11997679
+    "domain_name": "104.com.tw",
+    "total_traffic": 11416339
   },
   {
     "rank": 42,
     "domain_name": "missav.ai",
-    "total_traffic": 11938154
+    "total_traffic": 11162613
   },
   {
     "rank": 43,
-    "domain_name": "twword.com",
-    "total_traffic": 11650940
+    "domain_name": "cnyes.com",
+    "total_traffic": 11131655
   },
   {
     "rank": 44,
-    "domain_name": "microsoft.com",
-    "total_traffic": 11550314
+    "domain_name": "movieffm.net",
+    "total_traffic": 10981373
   },
   {
     "rank": 45,
-    "domain_name": "cmoney.tw",
-    "total_traffic": 11473560
+    "domain_name": "nat.gov.tw",
+    "total_traffic": 10221086
   },
   {
     "rank": 46,
-    "domain_name": "storm.mg",
-    "total_traffic": 11356559
+    "domain_name": "bing.com",
+    "total_traffic": 10177348
   },
   {
     "rank": 47,
-    "domain_name": "bing.com",
-    "total_traffic": 11076998
+    "domain_name": "setn.com",
+    "total_traffic": 10034334
   },
   {
     "rank": 48,
-    "domain_name": "reurl.cc",
-    "total_traffic": 10909749
+    "domain_name": "linovelib.com",
+    "total_traffic": 9722212
   },
   {
     "rank": 49,
-    "domain_name": "gimytv.ai",
-    "total_traffic": 10825289
+    "domain_name": "reurl.cc",
+    "total_traffic": 9429230
   },
   {
     "rank": 50,
-    "domain_name": "movieffm.net",
-    "total_traffic": 10407627
+    "domain_name": "taobao.com",
+    "total_traffic": 9382173
   },
   {
     "rank": 51,
-    "domain_name": "pttweb.cc",
-    "total_traffic": 10103331
+    "domain_name": "cmoney.tw",
+    "total_traffic": 9353617
   },
   {
     "rank": 52,
-    "domain_name": "setn.com",
-    "total_traffic": 10058069
+    "domain_name": "microsoft.com",
+    "total_traffic": 9345160
   },
   {
     "rank": 53,
-    "domain_name": "thisiscm.com",
-    "total_traffic": 9959493
+    "domain_name": "pttweb.cc",
+    "total_traffic": 9313452
   },
   {
     "rank": 54,
-    "domain_name": "weather.com",
-    "total_traffic": 9937577
+    "domain_name": "twword.com",
+    "total_traffic": 9306322
   },
   {
     "rank": 55,
-    "domain_name": "linovelib.com",
-    "total_traffic": 9861038
+    "domain_name": "xbanxia.cc",
+    "total_traffic": 9277610
   },
   {
     "rank": 56,
     "domain_name": "7-11.com.tw",
-    "total_traffic": 9677160
+    "total_traffic": 9238345
   },
   {
     "rank": 57,
-    "domain_name": "taobao.com",
-    "total_traffic": 9616438
+    "domain_name": "thisiscm.com",
+    "total_traffic": 9152704
   },
   {
     "rank": 58,
-    "domain_name": "novel543.com",
-    "total_traffic": 9346264
+    "domain_name": "eyny.com",
+    "total_traffic": 8692065
   },
   {
     "rank": 59,
     "domain_name": "github.com",
-    "total_traffic": 9279728
+    "total_traffic": 8683733
   },
   {
     "rank": 60,
-    "domain_name": "nat.gov.tw",
-    "total_traffic": 9263850
+    "domain_name": "douyin.com",
+    "total_traffic": 8460564
   },
   {
     "rank": 61,
-    "domain_name": "eyny.com",
-    "total_traffic": 9214541
+    "domain_name": "gov.taipei",
+    "total_traffic": 8229032
   },
   {
     "rank": 62,
-    "domain_name": "cna.com.tw",
-    "total_traffic": 9140962
+    "domain_name": "weather.com",
+    "total_traffic": 8219097
   },
   {
     "rank": 63,
-    "domain_name": "apple.com",
-    "total_traffic": 9114047
+    "domain_name": "novel543.com",
+    "total_traffic": 8141786
   },
   {
     "rank": 64,
-    "domain_name": "douyin.com",
-    "total_traffic": 9010635
+    "domain_name": "cna.com.tw",
+    "total_traffic": 8061277
   },
   {
     "rank": 65,
-    "domain_name": "openai.com",
-    "total_traffic": 8581527
+    "domain_name": "tiktok.com",
+    "total_traffic": 7992675
   },
   {
     "rank": 66,
-    "domain_name": "gov.taipei",
-    "total_traffic": 8321814
+    "domain_name": "trip.com",
+    "total_traffic": 7904254
   },
   {
     "rank": 67,
     "domain_name": "ctbcbank.com",
-    "total_traffic": 8223678
+    "total_traffic": 7810496
   },
   {
     "rank": 68,
-    "domain_name": "live.com",
-    "total_traffic": 7958494
+    "domain_name": "openai.com",
+    "total_traffic": 7667205
   },
   {
     "rank": 69,
-    "domain_name": "discord.com",
-    "total_traffic": 7773488
+    "domain_name": "live.com",
+    "total_traffic": 7651595
   },
   {
     "rank": 70,
-    "domain_name": "tiktok.com",
-    "total_traffic": 7653377
+    "domain_name": "apple.com",
+    "total_traffic": 7584418
   },
   {
     "rank": 71,
     "domain_name": "hjwzw.com",
-    "total_traffic": 7590105
+    "total_traffic": 7486761
   },
   {
     "rank": 72,
-    "domain_name": "twitter.com",
-    "total_traffic": 7487141
+    "domain_name": "discord.com",
+    "total_traffic": 7275607
   },
   {
     "rank": 73,
     "domain_name": "canva.com",
-    "total_traffic": 7396986
+    "total_traffic": 7202376
   },
   {
     "rank": 74,
-    "domain_name": "nownews.com",
-    "total_traffic": 7336536
+    "domain_name": "ctee.com.tw",
+    "total_traffic": 6908899
   },
   {
     "rank": 75,
-    "domain_name": "sto55.com",
-    "total_traffic": 7224065
+    "domain_name": "nextapple.com",
+    "total_traffic": 6762231
   },
   {
     "rank": 76,
-    "domain_name": "trip.com",
-    "total_traffic": 7143474
+    "domain_name": "dgpa.gov.tw",
+    "total_traffic": 6329205
   },
   {
     "rank": 77,
-    "domain_name": "ixdzs.tw",
-    "total_traffic": 7030216
+    "domain_name": "ruten.com.tw",
+    "total_traffic": 6312660
   },
   {
     "rank": 78,
-    "domain_name": "ruten.com.tw",
-    "total_traffic": 6872590
+    "domain_name": "twitter.com",
+    "total_traffic": 6295944
   },
   {
     "rank": 79,
-    "domain_name": "nextapple.com",
-    "total_traffic": 6775911
+    "domain_name": "ixdzs.tw",
+    "total_traffic": 6293253
   },
   {
     "rank": 80,
-    "domain_name": "books.com.tw",
-    "total_traffic": 6361196
+    "domain_name": "ebc.net.tw",
+    "total_traffic": 6073682
   },
   {
     "rank": 81,
-    "domain_name": "cpbl.com.tw",
-    "total_traffic": 6339058
+    "domain_name": "mirrormedia.mg",
+    "total_traffic": 6048804
   },
   {
     "rank": 82,
-    "domain_name": "line.biz",
-    "total_traffic": 6286851
+    "domain_name": "books.com.tw",
+    "total_traffic": 6046830
   },
   {
     "rank": 83,
-    "domain_name": "cht.com.tw",
-    "total_traffic": 6161365
+    "domain_name": "line.biz",
+    "total_traffic": 5892659
   },
   {
     "rank": 84,
-    "domain_name": "hinet.net",
-    "total_traffic": 6158408
+    "domain_name": "disp.cc",
+    "total_traffic": 5804755
   },
   {
     "rank": 85,
-    "domain_name": "missav123.com",
-    "total_traffic": 6091893
+    "domain_name": "xiaoyakankan.com",
+    "total_traffic": 5734355
   },
   {
     "rank": 86,
-    "domain_name": "disp.cc",
-    "total_traffic": 6083468
+    "domain_name": "missav123.com",
+    "total_traffic": 5661903
   },
   {
     "rank": 87,
-    "domain_name": "ctee.com.tw",
-    "total_traffic": 6006669
+    "domain_name": "cht.com.tw",
+    "total_traffic": 5651741
   },
   {
     "rank": 88,
-    "domain_name": "drxsw.com",
-    "total_traffic": 5971151
+    "domain_name": "nownews.com",
+    "total_traffic": 5609480
   },
   {
     "rank": 89,
-    "domain_name": "ebc.net.tw",
-    "total_traffic": 5948766
+    "domain_name": "xsw.tw",
+    "total_traffic": 5541877
   },
   {
     "rank": 90,
-    "domain_name": "pinterest.com",
-    "total_traffic": 5873178
+    "domain_name": "vocus.cc",
+    "total_traffic": 5523979
   },
   {
     "rank": 91,
-    "domain_name": "moe.edu.tw",
-    "total_traffic": 5855176
+    "domain_name": "businesstoday.com.tw",
+    "total_traffic": 5489693
   },
   {
     "rank": 92,
-    "domain_name": "twmanga.com",
-    "total_traffic": 5775805
+    "domain_name": "pinterest.com",
+    "total_traffic": 5471929
   },
   {
     "rank": 93,
-    "domain_name": "quickclick.cc",
-    "total_traffic": 5753637
+    "domain_name": "591.com.tw",
+    "total_traffic": 5361064
   },
   {
     "rank": 94,
-    "domain_name": "xiaoyakankan.com",
-    "total_traffic": 5564325
+    "domain_name": "ero-labs.world",
+    "total_traffic": 5283140
   },
   {
     "rank": 95,
-    "domain_name": "anime1.me",
-    "total_traffic": 5551030
+    "domain_name": "costco.com.tw",
+    "total_traffic": 5149020
   },
   {
     "rank": 96,
-    "domain_name": "vocus.cc",
-    "total_traffic": 5486807
+    "domain_name": "taishinbank.com.tw",
+    "total_traffic": 5140977
   },
   {
     "rank": 97,
-    "domain_name": "591.com.tw",
-    "total_traffic": 5391159
+    "domain_name": "moe.edu.tw",
+    "total_traffic": 5128051
   },
   {
     "rank": 98,
-    "domain_name": "bot.com.tw",
-    "total_traffic": 5383435
+    "domain_name": "quickclick.cc",
+    "total_traffic": 5108409
   },
   {
     "rank": 99,
-    "domain_name": "missav.live",
-    "total_traffic": 5372530
+    "domain_name": "drxsw.com",
+    "total_traffic": 5073306
   },
   {
     "rank": 100,
-    "domain_name": "cambridge.org",
-    "total_traffic": 5369724
+    "domain_name": "hinet.net",
+    "total_traffic": 4977449
   }
 ]

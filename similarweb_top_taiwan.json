@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
-    "website": "ptt.cc",
-    "category": "Computers Electronics and Technology > Social Media Networks"
-  },
-  {
-    "rank": 13,
     "website": "dcard.tw",
     "category": "Computers Electronics and Technology > Social Media Networks"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "website": "udn.com",
     "category": "News & Media Publishers"
+  },
+  {
+    "rank": 14,
+    "website": "ptt.cc",
+    "category": "Computers Electronics and Technology > Social Media Networks"
   },
   {
     "rank": 15,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
+    "website": "momoshop.com.tw",
+    "category": "Ecommerce & Shopping > Marketplace"
+  },
+  {
+    "rank": 19,
     "website": "x.com",
     "category": "Computers Electronics and Technology > Social Media Networks"
   },
   {
-    "rank": 19,
-    "website": "69shuba.com",
-    "category": "Arts & Entertainment > Books and Literature"
-  },
-  {
     "rank": 20,
-    "website": "twitch.tv",
-    "category": "Games > Video Games Consoles and Accessories"
-  },
-  {
-    "rank": 21,
     "website": "mobile01.com",
     "category": "Computers Electronics and Technology > Computers Electronics and Technology - Other"
   },
   {
+    "rank": 21,
+    "website": "twitch.tv",
+    "category": "Games > Video Games Consoles and Accessories"
+  },
+  {
     "rank": 22,
-    "website": "xbanxia.cc",
-    "category": null
+    "website": "cwa.gov.tw",
+    "category": "Computers Electronics and Technology > Programming and Developer Software"
   },
   {
     "rank": 23,
@@ -116,8 +116,8 @@
   },
   {
     "rank": 24,
-    "website": "momoshop.com.tw",
-    "category": "Ecommerce & Shopping > Marketplace"
+    "website": "xbanxia.cc",
+    "category": "Arts & Entertainment > Books and Literature"
   },
   {
     "rank": 25,
@@ -126,103 +126,103 @@
   },
   {
     "rank": 26,
-    "website": "netflix.com",
-    "category": "Arts & Entertainment > Streaming & Online TV"
-  },
-  {
-    "rank": 27,
     "website": "baidu.com",
     "category": "Computers Electronics and Technology > Search Engines"
   },
   {
-    "rank": 28,
-    "website": "twkan.com",
-    "category": "Arts & Entertainment > Books and Literature"
-  },
-  {
-    "rank": 29,
-    "website": "jable.tv",
-    "category": "Adult"
-  },
-  {
-    "rank": 30,
-    "website": "cwa.gov.tw",
-    "category": "Computers Electronics and Technology > Programming and Developer Software"
-  },
-  {
-    "rank": 31,
-    "website": "pixnet.net",
-    "category": "News & Media Publishers"
-  },
-  {
-    "rank": 32,
-    "website": "missav.ws",
-    "category": "Adult"
-  },
-  {
-    "rank": 33,
-    "website": "czbooks.net",
-    "category": "Arts & Entertainment > Animation and Comics"
-  },
-  {
-    "rank": 34,
-    "website": "pchome.com.tw",
-    "category": "Computers Electronics and Technology > Computers Electronics and Technology - Other"
-  },
-  {
-    "rank": 35,
-    "website": "wantgoo.com",
-    "category": "Finance > Investing"
-  },
-  {
-    "rank": 36,
-    "website": "pornhub.com",
-    "category": "Adult"
-  },
-  {
-    "rank": 37,
-    "website": "tvbs.com.tw",
-    "category": "Arts & Entertainment > Streaming & Online TV"
-  },
-  {
-    "rank": 38,
-    "website": "chinatimes.com",
-    "category": "News & Media Publishers"
-  },
-  {
-    "rank": 39,
-    "website": "104.com.tw",
-    "category": "Jobs and Career > Jobs and Employment"
-  },
-  {
-    "rank": 40,
-    "website": "setn.com",
-    "category": "News & Media Publishers"
-  },
-  {
-    "rank": 41,
-    "website": "happymh.com",
-    "category": "Computers Electronics and Technology > Social Media Networks"
-  },
-  {
-    "rank": 42,
+    "rank": 27,
     "website": "gemini.google.com",
     "category": "AI Chatbots and Tools"
   },
   {
-    "rank": 43,
-    "website": "nownews.com",
+    "rank": 28,
+    "website": "netflix.com",
+    "category": "Arts & Entertainment > Streaming & Online TV"
+  },
+  {
+    "rank": 29,
+    "website": "pchome.com.tw",
+    "category": "Computers Electronics and Technology > Computers Electronics and Technology - Other"
+  },
+  {
+    "rank": 30,
+    "website": "jable.tv",
+    "category": "Adult"
+  },
+  {
+    "rank": 31,
+    "website": "tvbs.com.tw",
+    "category": "Arts & Entertainment > Streaming & Online TV"
+  },
+  {
+    "rank": 32,
+    "website": "69shuba.com",
+    "category": "Arts & Entertainment > Books and Literature"
+  },
+  {
+    "rank": 33,
+    "website": "pixnet.net",
     "category": "News & Media Publishers"
   },
   {
-    "rank": 44,
-    "website": "manhuagui.com",
+    "rank": 34,
+    "website": "missav.ws",
+    "category": "Adult"
+  },
+  {
+    "rank": 35,
+    "website": "twkan.com",
+    "category": "Arts & Entertainment > Books and Literature"
+  },
+  {
+    "rank": 36,
+    "website": "czbooks.net",
     "category": "Arts & Entertainment > Animation and Comics"
   },
   {
-    "rank": 45,
+    "rank": 37,
+    "website": "chinatimes.com",
+    "category": "News & Media Publishers"
+  },
+  {
+    "rank": 38,
+    "website": "setn.com",
+    "category": "News & Media Publishers"
+  },
+  {
+    "rank": 39,
+    "website": "wantgoo.com",
+    "category": "Finance > Investing"
+  },
+  {
+    "rank": 40,
+    "website": "104.com.tw",
+    "category": "Jobs and Career > Jobs and Employment"
+  },
+  {
+    "rank": 41,
+    "website": "news.tvbs.com.tw",
+    "category": "News & Media Publishers"
+  },
+  {
+    "rank": 42,
+    "website": "pornhub.com",
+    "category": "Adult"
+  },
+  {
+    "rank": 43,
+    "website": "happymh.com",
+    "category": "Computers Electronics and Technology > Social Media Networks"
+  },
+  {
+    "rank": 44,
     "website": "cnyes.com",
     "category": "Finance > Investing"
+  },
+  {
+    "rank": 45,
+    "website": "businesstoday.com.tw",
+    "category": "News & Media Publishers"
   },
   {
     "rank": 46,
@@ -231,7 +231,7 @@
   },
   {
     "rank": 47,
-    "website": "news.tvbs.com.tw",
+    "website": "mirrormedia.mg",
     "category": "News & Media Publishers"
   },
   {
@@ -241,12 +241,12 @@
   },
   {
     "rank": 49,
-    "website": "ixdzs.tw",
-    "category": "Lifestyle > Fashion and Apparel"
+    "website": "nownews.com",
+    "category": "News & Media Publishers"
   },
   {
     "rank": 50,
-    "website": "gimytv.ai",
-    "category": null
+    "website": "storm.mg",
+    "category": "News & Media Publishers"
   }
 ]
