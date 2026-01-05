@@ -1,13 +1,14 @@
 {
   "name": "top-traffic-list-taiwan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "從多個來源抓取台灣網站流量排名清單",
   "scripts": {
     "tranco": "node fetch-tranco.js",
     "cloudflare": "node fetch-cloudflare.js",
     "ahrefs": "node fetch-ahrefs.js",
     "similarweb": "node fetch-similarweb.js",
-    "semrush": "node fetch-semrush.js"
+    "semrush": "node fetch-semrush.js",
+    "merge": "node merge-lists.js"
   },
   "author": "Irvin Chen",
   "license": "CC BY-NC-ND-4.0",

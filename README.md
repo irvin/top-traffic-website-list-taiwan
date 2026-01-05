@@ -40,7 +40,7 @@
 
 ```bash
 npm install
-npm run <tranco|cloudflare|ahrefs|similarweb|semrush>
+npm run <tranco|cloudflare|ahrefs|similarweb|semrush|merge>
 ```
 
 ## 📁 輸出檔案
@@ -121,6 +121,11 @@ npm run <tranco|cloudflare|ahrefs|similarweb|semrush>
   },
   ...
 ]
+```
+
+### Merge
+執行後會合併以上所有清單，產生 `merged_lists_tw.json`
+
 ```
 
 ## 📜 授權
