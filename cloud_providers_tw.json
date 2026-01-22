@@ -325,7 +325,7 @@
     },
     {
       "name": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
-      "identifiers": {    
+      "identifiers": {
         "asn": ["AS24154", "AS7482"],
         "org_keywords": ["APOL", "APTG"]
       },
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "name": "Taiwna Digital Streaming Co.",
+      "name": "Taiwan Digital Streaming Co.",
       "identifiers": {
         "asn": ["AS18041"],
         "org_keywords": ["TWDS"]
@@ -497,6 +497,15 @@
       "notes": [
         "https://www.fast-line.tw",
         "as131657.net"
+      ]
+    },
+    {
+      "name": "EASPNET Inc.",
+      "identifiers": {
+        "asn": ["AS10135"]
+      },
+      "notes": [
+        "https://www.easpnet.com"
       ]
     }
   ]
