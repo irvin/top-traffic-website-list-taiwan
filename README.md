@@ -1,0 +1,143 @@
+# Taiwan Website Traffic Ranking Fetcher
+
+For Traditional Chinese documentation, see [`README.zh-TW.md`](README.zh-TW.md).
+
+A toolkit for fetching Taiwan website traffic rankings from multiple sources:
+
+- [Tranco List](https://tranco-list.eu/) — global top 1 million sites
+- [Cloudflare Radar](https://radar.cloudflare.com/) — Taiwan traffic top 100 (Cloudflare)
+- [AhrefsTop](https://ahrefstop.com/websites/taiwan) — Taiwan organic search traffic top 100
+- [SimilarWeb](https://www.similarweb.com/top-websites/taiwan/) — Taiwan website traffic top 50
+- [Semrush](https://www.semrush.com/trending-websites/tw/all) — Taiwan website traffic top 100
+
+## 📊 Data sources
+
+### Tranco List
+[Tranco List](https://tranco-list.eu/) combines Alexa, Cisco Umbrella, Majestic, Chrome User Experience Report, and other sources for more reliable, stable rankings than any single provider.
+
+- Source data updates daily
+- Filter: domains ending in `.tw`
+
+### Cloudflare Radar
+[Cloudflare Radar](https://radar.cloudflare.com/) is Cloudflare’s global traffic analytics platform, using Cloudflare’s network to collect real traffic. Provides Taiwan top 100 with category metadata via the [Cloudflare Radar API](https://developers.cloudflare.com/radar/).
+
+- Source data updates daily
+- Requires a Cloudflare API token in `.env` as `CLOUDFLARE_API_TOKEN`
+
+### AhrefsTop
+[AhrefsTop](https://ahrefstop.com/websites/taiwan) ranks sites by estimated organic search traffic. Taiwan top 100 with category and search traffic; updated monthly.
+
+- Source data updates monthly
+
+### SimilarWeb
+[SimilarWeb](https://www.similarweb.com/top-websites/taiwan/) aggregates direct measurement, partner data, and public sources. Taiwan top 50 with category and rank change; updated monthly.
+
+- Source data updates monthly
+
+### Semrush
+[Semrush](https://www.semrush.com/trending-websites/tw/all) uses clickstream data for real user behavior. Taiwan top 100 with estimated total traffic; updated monthly.
+
+- Source data updates monthly
+
+## 🚀 Usage
+
+```bash
+npm install
+npm run <tranco|cloudflare|ahrefs|similarweb|semrush|merge>
+```
+
+## 📁 Output files
+
+### Tranco List
+Produces `tranco_list_tw.json`:
+
+```json
+[
+  {
+    "rank": 123,
+    "domain": "example.com.tw",
+    "url": "https://example.com.tw"
+  },
+  ...
+]
+```
+
+### Cloudflare Radar
+Produces `cloudflare_radar_tw.json`:
+
+```json
+[
+  {
+    "rank": 1,
+    "domain": "google.com",
+    "categories": [
+      {
+        "id": 145,
+        "name": "Search Engines",
+        "superCategoryId": 26
+      }
+    ]
+  },
+  ...
+]
+```
+
+### AhrefsTop
+Produces `ahrefs_top_tw.json`:
+
+```json
+[
+  {
+    "rank": 1,
+    "website": "wikipedia.org",
+    "category": "Reference",
+    "search_traffic_K": 80400
+  },
+  ...
+]
+```
+
+**Note:** `search_traffic_K` is a plain number in thousands (e.g. "80.4M" → 80400).
+
+### SimilarWeb
+Produces `similarweb_top_tw.json`:
+
+```json
+[
+  {
+    "rank": 1,
+    "website": "google.com",
+    "category": "Computers Electronics and Technology > Search Engines"
+  },
+  ...
+]
+```
+
+### Semrush
+Produces `semrush_top_tw.json`:
+
+```json
+[
+  {
+    "rank": 1,
+    "domain_name": "google.com",
+    "total_traffic": 971810009
+  },
+  ...
+]
+```
+
+### Merge
+Merges all lists into `merged_lists_tw.json`.
+
+## 📜 License
+
+During the ISIF research period (through December 31, 2026), this project is licensed under [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+After December 31, 2026, data and scripts will be released into the Public Domain. For uses beyond CC BY-NC-ND 4.0 during the research period, contact Irvin Chen (Open Culture Foundation) at irvin@moztw.org (cc hi@ocf.tw).
+
+See [LICENSE](LICENSE) for full terms and suggested attribution.
+
+## 🙏 Acknowledgements
+
+This work was supported by a grant from the APNIC Foundation, via the Information Society Innovation Fund (ISIF Asia).

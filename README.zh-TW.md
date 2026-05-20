@@ -1,5 +1,7 @@
 # 台灣網站流量排名抓取工具
 
+英文文件請見 [`README.md`](README.md)。
+
 從多個來源抓取台灣網站流量排名清單的工具集，包含：
 - [Tranco List](https://tranco-list.eu/) - 全球前 100 萬網站排名
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare 的台灣流量排名（前 100 名）
